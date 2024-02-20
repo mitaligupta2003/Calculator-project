@@ -1,0 +1,30 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-blue{
+    background:rgba(255, 68, 0, 0.784);
+    
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+   display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.container{
+    width: 20vw;
+    border: 2px solid black;
+    border-radius: 10px;
+}
